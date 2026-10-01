@@ -1,0 +1,8 @@
+{
+  "name": "Trousers & Co. Retail Analytics Dashboard",
+  "description": "Interactive multi-dimensional visualization dashboard for retail sales and orders data with custom chart builders, trend analysis, basket dynamics, and data explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
